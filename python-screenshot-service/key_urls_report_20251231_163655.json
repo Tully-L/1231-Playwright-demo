@@ -1,0 +1,69 @@
+{
+  "timestamp": "2025-12-31T16:36:55.659366",
+  "summary": {
+    "total": 7,
+    "success": 0,
+    "failed": 7,
+    "success_rate": 0.0,
+    "total_time": 0.38375401496887207,
+    "average_time": 0.0548220021384103
+  },
+  "results": [
+    {
+      "name": "Wave Life Sciences",
+      "url": "https://wavelifesciences.com/pipeline/research-and-development/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.2767665386199951,
+      "note": "Python代码中成功抓取数据的网站"
+    },
+    {
+      "name": "Silence Therapeutics",
+      "url": "https://silence-therapeutics.com/our-pipeline/default.aspx",
+      "success": false,
+      "error": "",
+      "elapsed": 0.03956007957458496,
+      "note": "可能有Cloudflare保护"
+    },
+    {
+      "name": "Alnylam",
+      "url": "https://www.alnylam.com/alnylam-rnai-pipeline",
+      "success": false,
+      "error": "",
+      "elapsed": 0.016744613647460938,
+      "note": "RNAi领域知名公司"
+    },
+    {
+      "name": "Arrowhead Pharma",
+      "url": "https://arrowheadpharma.com/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.012711763381958008,
+      "note": "RNAi治疗公司"
+    },
+    {
+      "name": "Intellia Therapeutics",
+      "url": "https://www.intelliatx.com/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.00842738151550293,
+      "note": "CRISPR基因编辑公司"
+    },
+    {
+      "name": "CRISPR Therapeutics",
+      "url": "https://crisprtx.com/pipeline",
+      "success": false,
+      "error": "",
+      "elapsed": 0.011989116668701172,
+      "note": "CRISPR基因编辑公司"
+    },
+    {
+      "name": "Sarepta Therapeutics",
+      "url": "https://www.sarepta.com/products-pipeline/pipelinel",
+      "success": false,
+      "error": "",
+      "elapsed": 0.017554521560668945,
+      "note": "可能有反爬保护"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "screenshot-api-service",
+  "version": "1.0.0",
+  "description": "批量网站截图API服务",
+  "main": "screenshot-api.js",
+  "scripts": {
+    "start": "node start.js",
+    "dev": "node screenshot-api.js",
+    "test": "node test-api.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "playwright": "^1.40.0",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": [
+    "screenshot",
+    "playwright",
+    "api",
+    "batch"
+  ],
+  "author": "AI Assistant",
+  "license": "MIT"
+}

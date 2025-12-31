@@ -1,0 +1,599 @@
+{
+  "session_info": {
+    "session_id": "20251231_170444",
+    "type": "pharma_pipeline_batch",
+    "start_time": "2025-12-31T17:23:33.844167",
+    "session_dir": "screenshots\\pharma_pipeline_20251231_170444"
+  },
+  "summary": {
+    "total": 61,
+    "success": 61,
+    "failed": 0,
+    "success_rate": 100.0,
+    "total_time": 1118.7955758571625,
+    "average_time": 16.731655230287647
+  },
+  "category_stats": {
+    "RNAi": {
+      "total": 7,
+      "success": 7,
+      "failed": 0
+    },
+    "Gene Editing": {
+      "total": 4,
+      "success": 4,
+      "failed": 0
+    },
+    "Biotech": {
+      "total": 25,
+      "success": 25,
+      "failed": 0
+    },
+    "Big Pharma": {
+      "total": 20,
+      "success": 20,
+      "failed": 0
+    },
+    "Asia": {
+      "total": 4,
+      "success": 4,
+      "failed": 0
+    },
+    "Specialty": {
+      "total": 1,
+      "success": 1,
+      "failed": 0
+    }
+  },
+  "results": [
+    {
+      "name": "Alnylam Pharmaceuticals",
+      "url": "https://www.alnylam.com/alnylam-rnai-pipeline",
+      "category": "RNAi",
+      "success": true,
+      "filename": "alnylam_com_1767171912965_75b67577.png",
+      "elapsed": 19.05715322494507,
+      "timestamp": "2025-12-31T17:05:14.089137"
+    },
+    {
+      "name": "Arrowhead Pharmaceuticals",
+      "url": "https://arrowheadpharma.com/pipeline/",
+      "category": "RNAi",
+      "success": true,
+      "filename": "arrowheadpharma_com_1767171932835_e19c64b7.png",
+      "elapsed": 18.239752292633057,
+      "timestamp": "2025-12-31T17:05:33.841976"
+    },
+    {
+      "name": "Ionis Pharmaceuticals",
+      "url": "https://ionis.com/pipeline/independent?_format=json",
+      "category": "RNAi",
+      "success": true,
+      "filename": "ionis_com_1767171940753_6dca2826.png",
+      "elapsed": 5.66974949836731,
+      "timestamp": "2025-12-31T17:05:41.014532"
+    },
+    {
+      "name": "Wave Life Sciences",
+      "url": "https://wavelifesciences.com/pipeline/research-and-development/",
+      "category": "RNAi",
+      "success": true,
+      "filename": "wavelifesciences_com_1767171957317_b3f31033.png",
+      "elapsed": 15.80054783821106,
+      "timestamp": "2025-12-31T17:05:58.333295"
+    },
+    {
+      "name": "Silence Therapeutics",
+      "url": "https://silence-therapeutics.com/our-pipeline/default.aspx",
+      "category": "RNAi",
+      "success": true,
+      "filename": "silence-therapeutics_com_1767171969852_8cce6a73.png",
+      "elapsed": 10.452435731887817,
+      "timestamp": "2025-12-31T17:06:10.297897"
+    },
+    {
+      "name": "SiRNA Omics",
+      "url": "https://www.sirnaomics.com/cn/science-pipeline/pipeline/",
+      "category": "RNAi",
+      "success": true,
+      "filename": "sirnaomics_com_1767171982429_0abeb96b.png",
+      "elapsed": 11.029930353164673,
+      "timestamp": "2025-12-31T17:06:22.839173"
+    },
+    {
+      "name": "ProQR Therapeutics",
+      "url": "https://www.proqr.com/pipeline",
+      "category": "RNAi",
+      "success": true,
+      "filename": "proqr_com_1767172012034_bc792f39.png",
+      "elapsed": 28.439428329467773,
+      "timestamp": "2025-12-31T17:06:52.796441"
+    },
+    {
+      "name": "CRISPR Therapeutics",
+      "url": "https://crisprtx.com/pipeline",
+      "category": "Gene Editing",
+      "success": true,
+      "filename": "crisprtx_com_1767172026508_7f044108.png",
+      "elapsed": 11.242511510848999,
+      "timestamp": "2025-12-31T17:07:07.059228"
+    },
+    {
+      "name": "Intellia Therapeutics",
+      "url": "https://www.intelliatx.com/pipeline/",
+      "category": "Gene Editing",
+      "success": true,
+      "filename": "intelliatx_com_1767172053493_db8fee4a.png",
+      "elapsed": 25.747480869293213,
+      "timestamp": "2025-12-31T17:07:34.313602"
+    },
+    {
+      "name": "Beam Therapeutics",
+      "url": "https://beamtx.com/pipeline/",
+      "category": "Gene Editing",
+      "success": true,
+      "filename": "beamtx_com_1767172066759_a204b763.png",
+      "elapsed": 11.478056907653809,
+      "timestamp": "2025-12-31T17:07:47.295030"
+    },
+    {
+      "name": "Metagenomi",
+      "url": "https://metagenomi.co/pipeline",
+      "category": "Gene Editing",
+      "success": true,
+      "filename": "metagenomi_co_1767172077578_ed59c983.png",
+      "elapsed": 9.37317705154419,
+      "timestamp": "2025-12-31T17:07:58.175863"
+    },
+    {
+      "name": "Avidity Biosciences",
+      "url": "https://www.aviditybiosciences.com/pipeline/pipeline-overview",
+      "category": "Biotech",
+      "success": true,
+      "filename": "aviditybiosciences_com_1767172090416_0cb56c12.png",
+      "elapsed": 9.663807392120361,
+      "timestamp": "2025-12-31T17:08:10.844070"
+    },
+    {
+      "name": "Dyne Therapeutics",
+      "url": "https://www.dyne-tx.com/pipeline/",
+      "category": "Biotech",
+      "success": true,
+      "filename": "dyne-tx_com_1767172122371_69ed4ecc.png",
+      "elapsed": 31.52756094932556,
+      "timestamp": "2025-12-31T17:08:43.880191"
+    },
+    {
+      "name": "Denali Therapeutics",
+      "url": "https://www.denalitherapeutics.com/pipeline",
+      "category": "Biotech",
+      "success": true,
+      "filename": "denalitherapeutics_com_1767172152231_65e12a2c.png",
+      "elapsed": 27.489131450653076,
+      "timestamp": "2025-12-31T17:09:12.877747"
+    },
+    {
+      "name": "Adarx Pharmaceuticals",
+      "url": "https://www.adarx.com/pipeline/",
+      "category": "Biotech",
+      "success": true,
+      "filename": "adarx_com_1767172162754_830ebecb.png",
+      "elapsed": 8.788095712661743,
+      "timestamp": "2025-12-31T17:09:23.174745"
+    },
+    {
+      "name": "Ribolia",
+      "url": "https://www.ribolia.com/pipeline",
+      "category": "Biotech",
+      "success": true,
+      "filename": "ribolia_com_1767172185553_79107226.png",
+      "elapsed": 21.10773015022278,
+      "timestamp": "2025-12-31T17:09:45.796637"
+    },
+    {
+      "name": "Atalanta Therapeutics",
+      "url": "https://www.atalantatx.com/pipeline/",
+      "category": "Biotech",
+      "success": true,
+      "filename": "atalantatx_com_1767172210493_76bca0a7.png",
+      "elapsed": 23.547234535217285,
+      "timestamp": "2025-12-31T17:10:10.856423"
+    },
+    {
+      "name": "Sarepta Therapeutics",
+      "url": "https://www.sarepta.com/products-pipeline/pipelinel",
+      "category": "Biotech",
+      "success": true,
+      "filename": "sarepta_com_1767172222039_c30959b6.png",
+      "elapsed": 10.097326755523682,
+      "timestamp": "2025-12-31T17:10:22.462013"
+    },
+    {
+      "name": "Rona Therapeutics",
+      "url": "https://www.ronatherapeutics.com/pipeline",
+      "category": "Biotech",
+      "success": true,
+      "filename": "ronatherapeutics_com_1767172235644_20399fbe.png",
+      "elapsed": 12.688730955123901,
+      "timestamp": "2025-12-31T17:10:36.662608"
+    },
+    {
+      "name": "Entrada Therapeutics",
+      "url": "https://www.entradatx.com/pipeline",
+      "category": "Biotech",
+      "success": true,
+      "filename": "entradatx_com_1767172251406_d9510c76.png",
+      "elapsed": 13.732177972793579,
+      "timestamp": "2025-12-31T17:10:51.909312"
+    },
+    {
+      "name": "PepGen",
+      "url": "https://www.pepgen.com/pipeline/",
+      "category": "Biotech",
+      "success": true,
+      "filename": "pepgen_com_1767172264702_2111ce8b.png",
+      "elapsed": 11.628476858139038,
+      "timestamp": "2025-12-31T17:11:05.051572"
+    },
+    {
+      "name": "Tangram Therapeutics",
+      "url": "https://tangramtx.com/pipeline/",
+      "category": "Biotech",
+      "success": true,
+      "filename": "tangramtx_com_1767172277890_5c14c756.png",
+      "elapsed": 11.879747152328491,
+      "timestamp": "2025-12-31T17:11:18.440494"
+    },
+    {
+      "name": "Switch Therapeutics",
+      "url": "https://www.switchthera.com/our-science/",
+      "category": "Biotech",
+      "success": true,
+      "filename": "switchthera_com_1767172292407_386496aa.png",
+      "elapsed": 13.222325325012207,
+      "timestamp": "2025-12-31T17:11:33.171611"
+    },
+    {
+      "name": "Arobic Therapeutics",
+      "url": "https://www.arobiotx.com/pipeline",
+      "category": "Biotech",
+      "success": true,
+      "filename": "arobiotx_com_1767172318975_fb4ee3c4.png",
+      "elapsed": 24.906656980514526,
+      "timestamp": "2025-12-31T17:11:59.594426"
+    },
+    {
+      "name": "Sanegene Bio",
+      "url": "https://www.sanegenebio.com/pipeline/",
+      "category": "Biotech",
+      "success": true,
+      "filename": "sanegenebio_com_1767172334298_0c3932e3.png",
+      "elapsed": 14.28835391998291,
+      "timestamp": "2025-12-31T17:12:15.391677"
+    },
+    {
+      "name": "Sirius RNA",
+      "url": "https://www.siriusrna.com/pipeline/index.html#pipeline",
+      "category": "Biotech",
+      "success": true,
+      "filename": "siriusrna_com_1767172349325_798a1bfb.png",
+      "elapsed": 13.7160325050354,
+      "timestamp": "2025-12-31T17:12:30.612538"
+    },
+    {
+      "name": "Aligos Therapeutics",
+      "url": "https://aligos.com/science/scientific-overview/",
+      "category": "Biotech",
+      "success": true,
+      "filename": "aligos_com_1767172361104_b098b363.png",
+      "elapsed": 9.718862295150757,
+      "timestamp": "2025-12-31T17:12:41.836319"
+    },
+    {
+      "name": "Arbutus Biopharma",
+      "url": "https://www.arbutusbio.com/pipeline/",
+      "category": "Biotech",
+      "success": true,
+      "filename": "arbutusbio_com_1767172373236_dd19fa33.png",
+      "elapsed": 10.28871464729309,
+      "timestamp": "2025-12-31T17:12:53.638099"
+    },
+    {
+      "name": "Camp4 Therapeutics",
+      "url": "https://www.camp4tx.com/pipeline/",
+      "category": "Biotech",
+      "success": true,
+      "filename": "camp4tx_com_1767172384492_79646726.png",
+      "elapsed": 10.045793294906616,
+      "timestamp": "2025-12-31T17:13:05.199860"
+    },
+    {
+      "name": "Mina Therapeutics",
+      "url": "https://minatx.com/pipeline/",
+      "category": "Biotech",
+      "success": true,
+      "filename": "minatx_com_1767172394089_e6279db0.png",
+      "elapsed": 7.643281698226929,
+      "timestamp": "2025-12-31T17:13:14.360261"
+    },
+    {
+      "name": "Ractigen Therapeutics",
+      "url": "https://www.ractigen.com/pipeline/",
+      "category": "Biotech",
+      "success": true,
+      "filename": "ractigen_com_1767172417034_f96a7036.png",
+      "elapsed": 22.306773900985718,
+      "timestamp": "2025-12-31T17:13:38.176365"
+    },
+    {
+      "name": "Judo Bio",
+      "url": "https://judo.bio/pipeline/",
+      "category": "Biotech",
+      "success": true,
+      "filename": "judo_bio_1767172429905_0c3d5de4.png",
+      "elapsed": 10.78729510307312,
+      "timestamp": "2025-12-31T17:13:50.478810"
+    },
+    {
+      "name": "Rigerna",
+      "url": "https://www.rigerna.com/page/cpgx/",
+      "category": "Biotech",
+      "success": true,
+      "filename": "rigerna_com_1767172439755_12f61c4b.png",
+      "elapsed": 8.399371147155762,
+      "timestamp": "2025-12-31T17:14:00.393885"
+    },
+    {
+      "name": "Siran Bio",
+      "url": "https://www.siranbio.com/page/cpgx/",
+      "category": "Biotech",
+      "success": true,
+      "filename": "siranbio_com_1767172449777_77f9d0be.png",
+      "elapsed": 8.308323383331299,
+      "timestamp": "2025-12-31T17:14:10.211567"
+    },
+    {
+      "name": "VisiRNA Therapeutics",
+      "url": "https://www.visirna.com/pages/client/pplinea?version=v1",
+      "category": "Biotech",
+      "success": true,
+      "filename": "visirna_com_1767172473765_6a5b0cf5.png",
+      "elapsed": 22.685073137283325,
+      "timestamp": "2025-12-31T17:14:34.411740"
+    },
+    {
+      "name": "Apellis Pharmaceuticals",
+      "url": "https://apellis.com/our-science/our-pipeline/",
+      "category": "Biotech",
+      "success": true,
+      "filename": "apellis_com_1767172485726_250811f0.png",
+      "elapsed": 10.162239074707031,
+      "timestamp": "2025-12-31T17:14:46.078880"
+    },
+    {
+      "name": "Eli Lilly",
+      "url": "https://www.lilly.com/innovation/clinical-development-pipeline",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "lilly_com_1767172515296_7107de7d.png",
+      "elapsed": 28.394221782684326,
+      "timestamp": "2025-12-31T17:15:17.482385"
+    },
+    {
+      "name": "Novo Nordisk",
+      "url": "https://www.novonordisk.com/science-and-technology/r-d-pipeline.html",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "novonordisk_com_1767172541612_594e0a6c.png",
+      "elapsed": 23.287602424621582,
+      "timestamp": "2025-12-31T17:15:42.280210"
+    },
+    {
+      "name": "Novartis",
+      "url": "https://www.novartis.com/research-development/novartis-pipeline",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "novartis_com_1767172555222_77ab1e9f.png",
+      "elapsed": 11.943676710128784,
+      "timestamp": "2025-12-31T17:15:55.728680"
+    },
+    {
+      "name": "Regeneron",
+      "url": "https://www.regeneron.com/science/investigational-pipeline",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "regeneron_com_1767172577090_6086c2d5.png",
+      "elapsed": 20.935134649276733,
+      "timestamp": "2025-12-31T17:16:18.179665"
+    },
+    {
+      "name": "AstraZeneca",
+      "url": "https://www.astrazeneca.com/our-therapy-areas/pipeline.html",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "astrazeneca_com_1767172584782_38e85f8a.png",
+      "elapsed": 5.3190038204193115,
+      "timestamp": "2025-12-31T17:16:25.012277"
+    },
+    {
+      "name": "Roche",
+      "url": "https://www.roche.com/solutions/pipeline",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "roche_com_1767172623875_ab728017.png",
+      "elapsed": 39.706931591033936,
+      "timestamp": "2025-12-31T17:17:06.227042"
+    },
+    {
+      "name": "Biogen",
+      "url": "https://www.biogen.com/science-and-innovation/pipeline.html",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "biogen_com_1767172639990_53904c12.png",
+      "elapsed": 13.335989952087402,
+      "timestamp": "2025-12-31T17:17:21.070699"
+    },
+    {
+      "name": "Amgen",
+      "url": "https://www.amgenpipeline.com/",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "amgenpipeline_com_1767172658438_bdcbcdee.png",
+      "elapsed": 17.085346221923828,
+      "timestamp": "2025-12-31T17:17:39.665775"
+    },
+    {
+      "name": "Johnson & Johnson",
+      "url": "https://www.investor.jnj.com/pipeline/development-pipeline/default.aspx",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "investor_jnj_com_1767172678221_bcb8b664.png",
+      "elapsed": 17.638002157211304,
+      "timestamp": "2025-12-31T17:17:58.815494"
+    },
+    {
+      "name": "Takeda",
+      "url": "https://www.takeda.com/science/pipeline/",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "takeda_com_1767172692848_f200283b.png",
+      "elapsed": 12.7764413356781,
+      "timestamp": "2025-12-31T17:18:13.108297"
+    },
+    {
+      "name": "GSK",
+      "url": "https://www.gsk.com/en-gb/innovation/pipeline/",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "gsk_com_1767172708494_5e9052a9.png",
+      "elapsed": 14.551795244216919,
+      "timestamp": "2025-12-31T17:18:29.168396"
+    },
+    {
+      "name": "Sanofi",
+      "url": "https://www.sanofi.com/en/our-science/our-pipeline",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "sanofi_com_1767172736687_4730b28e.png",
+      "elapsed": 26.384308576583862,
+      "timestamp": "2025-12-31T17:18:57.064572"
+    },
+    {
+      "name": "AbbVie",
+      "url": "https://www.abbvie.com/science/pipeline.html",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "abbvie_com_1767172786277_5f93629e.png",
+      "elapsed": 50.78328037261963,
+      "timestamp": "2025-12-31T17:19:49.352481"
+    },
+    {
+      "name": "Merck",
+      "url": "https://www.merck.com/research/product-pipeline/",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "merck_com_1767172801378_78d73f2d.png",
+      "elapsed": 10.89474868774414,
+      "timestamp": "2025-12-31T17:20:01.763711"
+    },
+    {
+      "name": "Gilead Sciences",
+      "url": "https://www.gilead.com/science/pipeline",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "gilead_com_1767172822603_32d911ee.png",
+      "elapsed": 19.961736917495728,
+      "timestamp": "2025-12-31T17:20:23.234499"
+    },
+    {
+      "name": "Boehringer Ingelheim",
+      "url": "https://www.boehringer-ingelheim.com/science-innovation/human-health-innovation/clinical-pipeline",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "boehringer-ingelheim_com_1767172833841_c068f243.png",
+      "elapsed": 9.363665103912354,
+      "timestamp": "2025-12-31T17:20:34.115635"
+    },
+    {
+      "name": "Pfizer",
+      "url": "https://www.pfizer.com/science/drug-product-pipeline",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "pfizer_com_1767172845033_cb3707bc.png",
+      "elapsed": 9.631977081298828,
+      "timestamp": "2025-12-31T17:20:45.255000"
+    },
+    {
+      "name": "CSL",
+      "url": "https://www.csl.com/research-and-development/product-pipeline",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "csl_com_1767172857927_1e41416e.png",
+      "elapsed": 11.672790765762329,
+      "timestamp": "2025-12-31T17:20:58.436680"
+    },
+    {
+      "name": "Bristol Myers Squibb",
+      "url": "https://www.bms.com/researchers-and-partners/in-the-pipeline.html",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "bms_com_1767172932600_2e3a4b1e.png",
+      "elapsed": 73.96772313117981,
+      "timestamp": "2025-12-31T17:22:13.910424"
+    },
+    {
+      "name": "Bayer",
+      "url": "https://www.bayer.com/en/pharma/development-pipeline",
+      "category": "Big Pharma",
+      "success": true,
+      "filename": "bayer_com_1767172941525_81fe4a35.png",
+      "elapsed": 6.328752756118774,
+      "timestamp": "2025-12-31T17:22:21.749094"
+    },
+    {
+      "name": "Synerk",
+      "url": "https://synerk.cn/productinfo/883480.html",
+      "category": "Asia",
+      "success": true,
+      "filename": "synerk_cn_1767172955678_60189d28.png",
+      "elapsed": 11.377917289733887,
+      "timestamp": "2025-12-31T17:22:36.143648"
+    },
+    {
+      "name": "Hygeia Pharma",
+      "url": "https://www.hygieiapharma.com/Pipeline/3.html",
+      "category": "Asia",
+      "success": true,
+      "filename": "hygieiapharma_com_1767172967742_1be0b169.png",
+      "elapsed": 10.491363286972046,
+      "timestamp": "2025-12-31T17:22:48.150331"
+    },
+    {
+      "name": "BeBetterMed (CN)",
+      "url": "http://www.bebettermed.cn/goods-2-view.html#rd_4",
+      "category": "Asia",
+      "success": true,
+      "filename": "bebettermed_cn_1767172977398_25399468.png",
+      "elapsed": 8.343990325927734,
+      "timestamp": "2025-12-31T17:22:58.012235"
+    },
+    {
+      "name": "BeBetterMed (COM)",
+      "url": "http://www.bebettermed.com/goods-2-view.html#rd_4",
+      "category": "Asia",
+      "success": true,
+      "filename": "bebettermed_com_1767172991717_b41b1552.png",
+      "elapsed": 13.067615270614624,
+      "timestamp": "2025-12-31T17:23:12.585387"
+    },
+    {
+      "name": "Olix Pharma",
+      "url": "https://olixpharma.com/rnd/rnd03.php",
+      "category": "Specialty",
+      "success": true,
+      "filename": "olixpharma_com_1767173012988_c16de513.png",
+      "elapsed": 18.22761368751526,
+      "timestamp": "2025-12-31T17:23:33.827560"
+    }
+  ]
+}

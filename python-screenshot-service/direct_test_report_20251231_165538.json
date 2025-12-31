@@ -1,0 +1,54 @@
+{
+  "timestamp": "2025-12-31T16:55:38.498679",
+  "test_type": "direct_screenshot_service",
+  "summary": {
+    "total": 5,
+    "success": 5,
+    "failed": 0,
+    "success_rate": 100.0,
+    "total_time": 75.31455731391907,
+    "average_time": 15.062911462783813
+  },
+  "results": [
+    {
+      "name": "Wave Life Sciences",
+      "url": "https://wavelifesciences.com/pipeline/research-and-development/",
+      "success": true,
+      "filename": "screenshot_1767171269885_b3f31033.png",
+      "elapsed": 15.764307022094727,
+      "note": "12文件夹Python代码成功抓取的网站"
+    },
+    {
+      "name": "Silence Therapeutics",
+      "url": "https://silence-therapeutics.com/our-pipeline/default.aspx",
+      "success": true,
+      "filename": "screenshot_1767171283050_8cce6a73.png",
+      "elapsed": 10.573031663894653,
+      "note": "可能有Cloudflare保护"
+    },
+    {
+      "name": "Alnylam",
+      "url": "https://www.alnylam.com/alnylam-rnai-pipeline",
+      "success": true,
+      "filename": "screenshot_1767171303805_75b67577.png",
+      "elapsed": 19.403470516204834,
+      "note": "RNAi领域知名公司"
+    },
+    {
+      "name": "Arrowhead Pharma",
+      "url": "https://arrowheadpharma.com/pipeline/",
+      "success": true,
+      "filename": "screenshot_1767171323936_e19c64b7.png",
+      "elapsed": 18.15174961090088,
+      "note": "RNAi治疗公司"
+    },
+    {
+      "name": "CRISPR Therapeutics",
+      "url": "https://crisprtx.com/pipeline",
+      "success": true,
+      "filename": "screenshot_1767171337944_7f044108.png",
+      "elapsed": 11.421998500823975,
+      "note": "基因编辑公司"
+    }
+  ]
+}

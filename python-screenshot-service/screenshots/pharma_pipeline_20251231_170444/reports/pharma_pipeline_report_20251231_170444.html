@@ -1,0 +1,583 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>制药公司管线截图报告</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f5f5f5; }
+        .container { max-width: 1400px; margin: 0 auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .header { text-align: center; margin-bottom: 30px; }
+        .summary { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-bottom: 30px; }
+        .stat-card { background: #f8f9fa; padding: 15px; border-radius: 6px; text-align: center; }
+        .stat-value { font-size: 24px; font-weight: bold; color: #007bff; }
+        .stat-label { color: #666; margin-top: 5px; }
+        .category-section { margin: 20px 0; }
+        .category-header { background: #e9ecef; padding: 10px; border-radius: 4px; font-weight: bold; }
+        .result-item { display: flex; align-items: center; padding: 8px; margin: 3px 0; border-radius: 4px; }
+        .success { background-color: #d4edda; border-left: 4px solid #28a745; }
+        .failure { background-color: #f8d7da; border-left: 4px solid #dc3545; }
+        .status-icon { margin-right: 10px; font-size: 16px; }
+        .company-name { font-weight: bold; margin-right: 10px; min-width: 200px; }
+        .company-url { color: #666; font-size: 11px; flex: 1; }
+        .elapsed-time { margin-left: auto; color: #666; min-width: 60px; }
+        .error-msg { color: #dc3545; font-size: 11px; margin-left: 10px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏥 制药公司管线截图报告</h1>
+            <p>会话ID: 20251231_170444</p>
+            <p>生成时间: 2025-12-31T17:23:33.844167</p>
+        </div>
+        
+        <div class="summary">
+            <div class="stat-card">
+                <div class="stat-value">61</div>
+                <div class="stat-label">总计网站</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">61</div>
+                <div class="stat-label">成功截图</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">0</div>
+                <div class="stat-label">失败截图</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">100.0%</div>
+                <div class="stat-label">成功率</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">1118.8s</div>
+                <div class="stat-label">总耗时</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">16.7s</div>
+                <div class="stat-label">平均耗时</div>
+            </div>
+        </div>
+
+        <div class="category-section">
+            <div class="category-header">
+                📂 RNAi - 7/7 成功 (100.0%)
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Alnylam Pharmaceuticals</div>
+                <div class="company-url">https://www.alnylam.com/alnylam-rnai-pipeline</div>
+                <div class="elapsed-time">19.1s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Arrowhead Pharmaceuticals</div>
+                <div class="company-url">https://arrowheadpharma.com/pipeline/</div>
+                <div class="elapsed-time">18.2s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Ionis Pharmaceuticals</div>
+                <div class="company-url">https://ionis.com/pipeline/independent?_format=json</div>
+                <div class="elapsed-time">5.7s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Wave Life Sciences</div>
+                <div class="company-url">https://wavelifesciences.com/pipeline/research-and-development/</div>
+                <div class="elapsed-time">15.8s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Silence Therapeutics</div>
+                <div class="company-url">https://silence-therapeutics.com/our-pipeline/default.aspx</div>
+                <div class="elapsed-time">10.5s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">SiRNA Omics</div>
+                <div class="company-url">https://www.sirnaomics.com/cn/science-pipeline/pipeline/</div>
+                <div class="elapsed-time">11.0s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">ProQR Therapeutics</div>
+                <div class="company-url">https://www.proqr.com/pipeline</div>
+                <div class="elapsed-time">28.4s</div>
+                
+            </div>
+</div>
+        <div class="category-section">
+            <div class="category-header">
+                📂 Gene Editing - 4/4 成功 (100.0%)
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">CRISPR Therapeutics</div>
+                <div class="company-url">https://crisprtx.com/pipeline</div>
+                <div class="elapsed-time">11.2s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Intellia Therapeutics</div>
+                <div class="company-url">https://www.intelliatx.com/pipeline/</div>
+                <div class="elapsed-time">25.7s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Beam Therapeutics</div>
+                <div class="company-url">https://beamtx.com/pipeline/</div>
+                <div class="elapsed-time">11.5s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Metagenomi</div>
+                <div class="company-url">https://metagenomi.co/pipeline</div>
+                <div class="elapsed-time">9.4s</div>
+                
+            </div>
+</div>
+        <div class="category-section">
+            <div class="category-header">
+                📂 Biotech - 25/25 成功 (100.0%)
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Avidity Biosciences</div>
+                <div class="company-url">https://www.aviditybiosciences.com/pipeline/pipeline-overview</div>
+                <div class="elapsed-time">9.7s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Dyne Therapeutics</div>
+                <div class="company-url">https://www.dyne-tx.com/pipeline/</div>
+                <div class="elapsed-time">31.5s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Denali Therapeutics</div>
+                <div class="company-url">https://www.denalitherapeutics.com/pipeline</div>
+                <div class="elapsed-time">27.5s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Adarx Pharmaceuticals</div>
+                <div class="company-url">https://www.adarx.com/pipeline/</div>
+                <div class="elapsed-time">8.8s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Ribolia</div>
+                <div class="company-url">https://www.ribolia.com/pipeline</div>
+                <div class="elapsed-time">21.1s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Atalanta Therapeutics</div>
+                <div class="company-url">https://www.atalantatx.com/pipeline/</div>
+                <div class="elapsed-time">23.5s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Sarepta Therapeutics</div>
+                <div class="company-url">https://www.sarepta.com/products-pipeline/pipelinel</div>
+                <div class="elapsed-time">10.1s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Rona Therapeutics</div>
+                <div class="company-url">https://www.ronatherapeutics.com/pipeline</div>
+                <div class="elapsed-time">12.7s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Entrada Therapeutics</div>
+                <div class="company-url">https://www.entradatx.com/pipeline</div>
+                <div class="elapsed-time">13.7s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">PepGen</div>
+                <div class="company-url">https://www.pepgen.com/pipeline/</div>
+                <div class="elapsed-time">11.6s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Tangram Therapeutics</div>
+                <div class="company-url">https://tangramtx.com/pipeline/</div>
+                <div class="elapsed-time">11.9s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Switch Therapeutics</div>
+                <div class="company-url">https://www.switchthera.com/our-science/</div>
+                <div class="elapsed-time">13.2s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Arobic Therapeutics</div>
+                <div class="company-url">https://www.arobiotx.com/pipeline</div>
+                <div class="elapsed-time">24.9s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Sanegene Bio</div>
+                <div class="company-url">https://www.sanegenebio.com/pipeline/</div>
+                <div class="elapsed-time">14.3s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Sirius RNA</div>
+                <div class="company-url">https://www.siriusrna.com/pipeline/index.html#pipeline</div>
+                <div class="elapsed-time">13.7s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Aligos Therapeutics</div>
+                <div class="company-url">https://aligos.com/science/scientific-overview/</div>
+                <div class="elapsed-time">9.7s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Arbutus Biopharma</div>
+                <div class="company-url">https://www.arbutusbio.com/pipeline/</div>
+                <div class="elapsed-time">10.3s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Camp4 Therapeutics</div>
+                <div class="company-url">https://www.camp4tx.com/pipeline/</div>
+                <div class="elapsed-time">10.0s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Mina Therapeutics</div>
+                <div class="company-url">https://minatx.com/pipeline/</div>
+                <div class="elapsed-time">7.6s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Ractigen Therapeutics</div>
+                <div class="company-url">https://www.ractigen.com/pipeline/</div>
+                <div class="elapsed-time">22.3s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Judo Bio</div>
+                <div class="company-url">https://judo.bio/pipeline/</div>
+                <div class="elapsed-time">10.8s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Rigerna</div>
+                <div class="company-url">https://www.rigerna.com/page/cpgx/</div>
+                <div class="elapsed-time">8.4s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Siran Bio</div>
+                <div class="company-url">https://www.siranbio.com/page/cpgx/</div>
+                <div class="elapsed-time">8.3s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">VisiRNA Therapeutics</div>
+                <div class="company-url">https://www.visirna.com/pages/client/pplinea?version=v1</div>
+                <div class="elapsed-time">22.7s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Apellis Pharmaceuticals</div>
+                <div class="company-url">https://apellis.com/our-science/our-pipeline/</div>
+                <div class="elapsed-time">10.2s</div>
+                
+            </div>
+</div>
+        <div class="category-section">
+            <div class="category-header">
+                📂 Big Pharma - 20/20 成功 (100.0%)
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Eli Lilly</div>
+                <div class="company-url">https://www.lilly.com/innovation/clinical-development-pipeline</div>
+                <div class="elapsed-time">28.4s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Novo Nordisk</div>
+                <div class="company-url">https://www.novonordisk.com/science-and-technology/r-d-pipeline.html</div>
+                <div class="elapsed-time">23.3s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Novartis</div>
+                <div class="company-url">https://www.novartis.com/research-development/novartis-pipeline</div>
+                <div class="elapsed-time">11.9s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Regeneron</div>
+                <div class="company-url">https://www.regeneron.com/science/investigational-pipeline</div>
+                <div class="elapsed-time">20.9s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">AstraZeneca</div>
+                <div class="company-url">https://www.astrazeneca.com/our-therapy-areas/pipeline.html</div>
+                <div class="elapsed-time">5.3s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Roche</div>
+                <div class="company-url">https://www.roche.com/solutions/pipeline</div>
+                <div class="elapsed-time">39.7s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Biogen</div>
+                <div class="company-url">https://www.biogen.com/science-and-innovation/pipeline.html</div>
+                <div class="elapsed-time">13.3s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Amgen</div>
+                <div class="company-url">https://www.amgenpipeline.com/</div>
+                <div class="elapsed-time">17.1s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Johnson & Johnson</div>
+                <div class="company-url">https://www.investor.jnj.com/pipeline/development-pipeline/default.aspx</div>
+                <div class="elapsed-time">17.6s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Takeda</div>
+                <div class="company-url">https://www.takeda.com/science/pipeline/</div>
+                <div class="elapsed-time">12.8s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">GSK</div>
+                <div class="company-url">https://www.gsk.com/en-gb/innovation/pipeline/</div>
+                <div class="elapsed-time">14.6s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Sanofi</div>
+                <div class="company-url">https://www.sanofi.com/en/our-science/our-pipeline</div>
+                <div class="elapsed-time">26.4s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">AbbVie</div>
+                <div class="company-url">https://www.abbvie.com/science/pipeline.html</div>
+                <div class="elapsed-time">50.8s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Merck</div>
+                <div class="company-url">https://www.merck.com/research/product-pipeline/</div>
+                <div class="elapsed-time">10.9s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Gilead Sciences</div>
+                <div class="company-url">https://www.gilead.com/science/pipeline</div>
+                <div class="elapsed-time">20.0s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Boehringer Ingelheim</div>
+                <div class="company-url">https://www.boehringer-ingelheim.com/science-innovation/human-health-innovation/clinical-pipeline</div>
+                <div class="elapsed-time">9.4s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Pfizer</div>
+                <div class="company-url">https://www.pfizer.com/science/drug-product-pipeline</div>
+                <div class="elapsed-time">9.6s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">CSL</div>
+                <div class="company-url">https://www.csl.com/research-and-development/product-pipeline</div>
+                <div class="elapsed-time">11.7s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Bristol Myers Squibb</div>
+                <div class="company-url">https://www.bms.com/researchers-and-partners/in-the-pipeline.html</div>
+                <div class="elapsed-time">74.0s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Bayer</div>
+                <div class="company-url">https://www.bayer.com/en/pharma/development-pipeline</div>
+                <div class="elapsed-time">6.3s</div>
+                
+            </div>
+</div>
+        <div class="category-section">
+            <div class="category-header">
+                📂 Asia - 4/4 成功 (100.0%)
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Synerk</div>
+                <div class="company-url">https://synerk.cn/productinfo/883480.html</div>
+                <div class="elapsed-time">11.4s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Hygeia Pharma</div>
+                <div class="company-url">https://www.hygieiapharma.com/Pipeline/3.html</div>
+                <div class="elapsed-time">10.5s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">BeBetterMed (CN)</div>
+                <div class="company-url">http://www.bebettermed.cn/goods-2-view.html#rd_4</div>
+                <div class="elapsed-time">8.3s</div>
+                
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">BeBetterMed (COM)</div>
+                <div class="company-url">http://www.bebettermed.com/goods-2-view.html#rd_4</div>
+                <div class="elapsed-time">13.1s</div>
+                
+            </div>
+</div>
+        <div class="category-section">
+            <div class="category-header">
+                📂 Specialty - 1/1 成功 (100.0%)
+            </div>
+
+            <div class="result-item success">
+                <span class="status-icon">✅</span>
+                <div class="company-name">Olix Pharma</div>
+                <div class="company-url">https://olixpharma.com/rnd/rnd03.php</div>
+                <div class="elapsed-time">18.2s</div>
+                
+            </div>
+</div>
+    </div>
+</body>
+</html>

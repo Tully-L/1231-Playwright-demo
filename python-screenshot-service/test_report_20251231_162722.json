@@ -1,0 +1,277 @@
+{
+  "timestamp": "2025-12-31T16:27:22.334941",
+  "summary": {
+    "total": 44,
+    "success": 0,
+    "failed": 44,
+    "success_rate": 0.0,
+    "total_time": 1.0581715106964111,
+    "average_time": 0.024049352515827526
+  },
+  "results": [
+    {
+      "url": "https://wavelifesciences.com/pipeline/research-and-development/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.26136302947998047
+    },
+    {
+      "url": "https://silence-therapeutics.com/our-pipeline/default.aspx",
+      "success": false,
+      "error": "",
+      "elapsed": 0.011498689651489258
+    },
+    {
+      "url": "https://www.alnylam.com/alnylam-rnai-pipeline",
+      "success": false,
+      "error": "",
+      "elapsed": 0.2617950439453125
+    },
+    {
+      "url": "https://arrowheadpharma.com/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.007992029190063477
+    },
+    {
+      "url": "https://ionis.com/pipeline/independent?_format=json",
+      "success": false,
+      "error": "",
+      "elapsed": 0.01668548583984375
+    },
+    {
+      "url": "https://www.aviditybiosciences.com/pipeline/pipeline-overview",
+      "success": false,
+      "error": "",
+      "elapsed": 0.016137123107910156
+    },
+    {
+      "url": "https://www.lilly.com/innovation/clinical-development-pipeline",
+      "success": false,
+      "error": "",
+      "elapsed": 0.007170438766479492
+    },
+    {
+      "url": "https://www.novonordisk.com/science-and-technology/r-d-pipeline.html",
+      "success": false,
+      "error": "",
+      "elapsed": 0.012547016143798828
+    },
+    {
+      "url": "https://www.novartis.com/research-development/novartis-pipeline",
+      "success": false,
+      "error": "",
+      "elapsed": 0.012452125549316406
+    },
+    {
+      "url": "https://www.regeneron.com/science/investigational-pipeline",
+      "success": false,
+      "error": "",
+      "elapsed": 0.003272533416748047
+    },
+    {
+      "url": "https://www.dyne-tx.com/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.011338949203491211
+    },
+    {
+      "url": "https://www.denalitherapeutics.com/pipeline",
+      "success": false,
+      "error": "",
+      "elapsed": 0.011338949203491211
+    },
+    {
+      "url": "https://www.adarx.com/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.0057468414306640625
+    },
+    {
+      "url": "https://www.ribolia.com/pipeline",
+      "success": false,
+      "error": "",
+      "elapsed": 0.013571500778198242
+    },
+    {
+      "url": "https://www.intelliatx.com/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.013910770416259766
+    },
+    {
+      "url": "https://beamtx.com/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.005301952362060547
+    },
+    {
+      "url": "https://www.astrazeneca.com/our-therapy-areas/pipeline.html",
+      "success": false,
+      "error": "",
+      "elapsed": 0.008050203323364258
+    },
+    {
+      "url": "https://www.roche.com/solutions/pipeline",
+      "success": false,
+      "error": "",
+      "elapsed": 0.008050203323364258
+    },
+    {
+      "url": "https://www.atalantatx.com/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.003998517990112305
+    },
+    {
+      "url": "https://www.sarepta.com/products-pipeline/pipelinel",
+      "success": false,
+      "error": "",
+      "elapsed": 0.011998414993286133
+    },
+    {
+      "url": "https://www.ronatherapeutics.com/pipeline",
+      "success": false,
+      "error": "",
+      "elapsed": 0.012002229690551758
+    },
+    {
+      "url": "https://crisprtx.com/pipeline",
+      "success": false,
+      "error": "",
+      "elapsed": 0.01305699348449707
+    },
+    {
+      "url": "https://olixpharma.com/rnd/rnd03.php",
+      "success": false,
+      "error": "",
+      "elapsed": 0.020998716354370117
+    },
+    {
+      "url": "https://www.entradatx.com/pipeline",
+      "success": false,
+      "error": "",
+      "elapsed": 0.020632028579711914
+    },
+    {
+      "url": "https://www.pepgen.com/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.00782155990600586
+    },
+    {
+      "url": "https://tangramtx.com/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.015940189361572266
+    },
+    {
+      "url": "https://www.switchthera.com/our-science/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.0162503719329834
+    },
+    {
+      "url": "https://www.arobiotx.com/pipeline",
+      "success": false,
+      "error": "",
+      "elapsed": 0.005405426025390625
+    },
+    {
+      "url": "https://www.sirnaomics.com/cn/science-pipeline/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.013234853744506836
+    },
+    {
+      "url": "https://www.sanegenebio.com/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.013228654861450195
+    },
+    {
+      "url": "https://www.siriusrna.com/pipeline/index.html#pipeline",
+      "success": false,
+      "error": "",
+      "elapsed": 0.004976511001586914
+    },
+    {
+      "url": "https://synerk.cn/productinfo/883480.html",
+      "success": false,
+      "error": "",
+      "elapsed": 0.01532292366027832
+    },
+    {
+      "url": "https://aligos.com/science/scientific-overview/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.01604008674621582
+    },
+    {
+      "url": "https://www.arbutusbio.com/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.012537240982055664
+    },
+    {
+      "url": "https://www.proqr.com/pipeline",
+      "success": false,
+      "error": "",
+      "elapsed": 0.02294635772705078
+    },
+    {
+      "url": "https://metagenomi.co/pipeline",
+      "success": false,
+      "error": "",
+      "elapsed": 0.02220296859741211
+    },
+    {
+      "url": "https://www.camp4tx.com/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.014236927032470703
+    },
+    {
+      "url": "https://minatx.com/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.020320892333984375
+    },
+    {
+      "url": "https://www.ractigen.com/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.019122600555419922
+    },
+    {
+      "url": "https://judo.bio/pipeline/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.012747764587402344
+    },
+    {
+      "url": "https://www.rigerna.com/page/cpgx/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.02045726776123047
+    },
+    {
+      "url": "https://www.siranbio.com/page/cpgx/",
+      "success": false,
+      "error": "",
+      "elapsed": 0.019696712493896484
+    },
+    {
+      "url": "https://www.visirna.com/pages/client/pplinea?version=v1",
+      "success": false,
+      "error": "",
+      "elapsed": 0.0062825679779052734
+    },
+    {
+      "url": "https://www.hygieiapharma.com/Pipeline/3.html",
+      "success": false,
+      "error": "",
+      "elapsed": 0.008489847183227539
+    }
+  ]
+}

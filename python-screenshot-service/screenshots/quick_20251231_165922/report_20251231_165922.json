@@ -1,0 +1,58 @@
+{
+  "session_time": "20251231_165922",
+  "total": 8,
+  "success": 8,
+  "failed": 0,
+  "success_rate": 100.0,
+  "total_time": 129.3819432258606,
+  "results": [
+    {
+      "name": "Wave Life Sciences",
+      "success": true,
+      "elapsed": 15.871408224105835,
+      "filename": "wavelifesciences_com_1767171577625_b3f31033.png"
+    },
+    {
+      "name": "Silence Therapeutics",
+      "success": true,
+      "elapsed": 10.6358003616333,
+      "filename": "silence-therapeutics_com_1767171589807_8cce6a73.png"
+    },
+    {
+      "name": "Alnylam",
+      "success": true,
+      "elapsed": 19.28384518623352,
+      "filename": "alnylam_com_1767171609488_75b67577.png"
+    },
+    {
+      "name": "Arrowhead Pharma",
+      "success": true,
+      "elapsed": 17.55047869682312,
+      "filename": "arrowheadpharma_com_1767171628146_e19c64b7.png"
+    },
+    {
+      "name": "CRISPR Therapeutics",
+      "success": true,
+      "elapsed": 10.962924242019653,
+      "filename": "crisprtx_com_1767171640519_7f044108.png"
+    },
+    {
+      "name": "Intellia Therapeutics",
+      "success": true,
+      "elapsed": 26.138827800750732,
+      "filename": "intelliatx_com_1767171667443_db8fee4a.png"
+    },
+    {
+      "name": "Beam Therapeutics",
+      "success": true,
+      "elapsed": 10.678801774978638,
+      "filename": "beamtx_com_1767171679430_a204b763.png"
+    },
+    {
+      "name": "Novartis",
+      "success": true,
+      "elapsed": 11.186708211898804,
+      "filename": "novartis_com_1767171691571_77ab1e9f.png"
+    }
+  ]
+}
